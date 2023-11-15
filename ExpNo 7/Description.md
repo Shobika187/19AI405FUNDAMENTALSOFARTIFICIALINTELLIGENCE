@@ -105,11 +105,8 @@ if solution:
 else:
     print("No solution found.")
 ```
-<h2>Sample Input and Output:</h2>
-SEND = 9567<br>
-MORE = 1085<br>
-<hr>
-MONEY = 10652<br>
-<hr>
+### OUTPUT:
+![image](https://github.com/Shobika187/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94508142/dbe11965-8400-430b-a023-b5ca92d6e1b5)
+
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
