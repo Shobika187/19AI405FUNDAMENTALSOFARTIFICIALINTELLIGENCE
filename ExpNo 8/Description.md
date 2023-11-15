@@ -138,10 +138,11 @@ while(player):
 
 <hr>
 
-## Sample Input and Output:
-<hr>
+## Output:
+![image](https://github.com/Shobika187/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94508142/b7d4f8d1-d607-4287-a8b8-bcb750da7f3e)
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8696111a-a4a7-47cb-ba4b-43a4ef88573f)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/4be5bf06-79fa-4fa0-9334-38a33f06060b)
+
+
+
 ## Result:
 Thus, Wumpus World problem was solved using python by demonstrationg inferences from propositional logic.
