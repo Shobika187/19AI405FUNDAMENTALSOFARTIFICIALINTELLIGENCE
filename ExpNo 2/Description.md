@@ -67,14 +67,14 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 
 </ol>
 
-<hr>
-### PROGRAM:
+
+## Program:
 ```
 from collections import deque
 from collections import defaultdict
 
 
-
+'''
 V E
 FOR EVERY EDGE
 U V
@@ -153,10 +153,3 @@ G F <BR>
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
-
-
-
-
-
-
-
